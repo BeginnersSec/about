@@ -1,0 +1,40 @@
+#indexCyberBack {
+    height:auto;
+    position: relative;
+}
+
+#commonWord {
+    position: absolute;
+    top:20%;
+    left:10%;
+    transform: translate(0%,0%);
+    padding:0;
+    margin:0;
+    font-size:80;
+    color: rgb(255, 255, 255);
+	background-color: rgba(0, 0, 0, 0.95);
+	padding: 20;
+	border: 10px solid;
+	border-color: white;
+	border-left: transparent;
+	border-top: transparent;
+}
+
+#indexCyberImg {
+	width: 100%;
+	height: 500px;
+	object-fit: cover;
+}
+
+.sponsorName {
+	letter-spacing: 2;
+	margin: 15 auto 0;
+	padding: 10;
+	font-size: 30px;
+}
+
+.sponsorCard {
+	padding: 10 auto;
+	border: 1px solid black;
+	margin: 30;
+}

@@ -1,0 +1,41 @@
+/*
+	ヘッダー用
+*/
+
+header {
+	background-color: rgb(24, 24, 24);
+	color: rgb(255, 255, 255);
+	display: flex;
+	justify-content: space-between;
+}
+
+header>* {
+	padding: 10;
+	margin: 10;
+}
+
+#title {
+	font-size: 50;
+}
+
+#headerUrlList {
+	list-style: none;
+}
+
+#headerUrlList>li {
+	float: left;
+	margin-top: 10;
+	margin-bottom: 10;
+	margin-left: 50;
+	margin-right: 50;
+	font-size: 30;
+}
+
+#headerUrlList>li>a {
+	color: white;
+	text-decoration: none;
+}
+
+#headerUrlList>li>a:hover {
+	text-decoration: underline;
+}

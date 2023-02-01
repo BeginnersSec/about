@@ -1,0 +1,38 @@
+/*
+	共通で利用するCSS
+*/
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.titleInPage {
+	width: fit-content;
+
+	text-align: center;
+	padding: 10;
+	margin: 20 auto;
+	letter-spacing: 2;
+	font-size: 35;
+	font-weight: bolder;
+	border-bottom: 3px solid;
+	border-color: black;
+}
+
+.explainInPage {
+	width: 65%;
+	text-align: center;
+	align-items: center;
+	margin-left: auto;
+    margin-right: auto;
+	margin: 0 auto 20 ;
+	padding: 30;
+	padding-top: 0;
+	padding-bottom: 60;
+}
+
+.explainInPage>p {
+	padding: 10;
+	font-size: 20;
+}
