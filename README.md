@@ -1,5 +1,10 @@
 # about
 【ホームページ】
 
+## ToDo
 
-https://colorhunt.co/palette/404258474e6850577a6b728e
+- アイコン
+- メタタグ
+- 公開
+- Twitter
+- Blogの静的サイトジェネレーター作成
