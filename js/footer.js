@@ -1,0 +1,1 @@
+document.write("<div>Copyright © 2023 Beginners Sec All Right Reserved.</div>");

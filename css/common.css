@@ -36,3 +36,25 @@
 	padding: 10;
 	font-size: 20;
 }
+
+.explainInPage>a {
+	padding: 10;
+	font-size: 20;
+	text-decoration-color: black;
+	color: black;
+}
+
+.explainInPage>a:hover {
+	text-decoration-color: rgb(255, 70, 23);
+}
+
+.explainInPage>p>a {
+	padding: 10;
+	font-size: 20;
+	text-decoration-color: black;
+	color: black;
+}
+
+.explainInPage>p>a:hover {
+	text-decoration-color: rgb(255, 70, 23);
+}
