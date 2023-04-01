@@ -11,5 +11,5 @@ hugo server
 ```
 localhost:1313でローカルサーバーが起動
 
-/content/ -> MD
-/themes/hugo-hero-theme/layouts/index.html -> index.html
+/content/ -> MD<br>
+/themes/hugo-hero-theme/layouts/index.html -> index.html<br>
