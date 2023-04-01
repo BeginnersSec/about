@@ -1,6 +1,5 @@
 # about
 【ホームページ】
-Hugo Theme https://themes.gohugo.io/themes/hugo-hero-theme/
 
 ### For Developers
 Theme:https://themes.gohugo.io/themes/hugo-hero-theme/
@@ -13,3 +12,4 @@ localhost:1313でローカルサーバーが起動
 
 /content/ -> MD<br>
 /themes/hugo-hero-theme/layouts/index.html -> index.html<br>
+
