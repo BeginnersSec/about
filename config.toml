@@ -38,15 +38,25 @@ publishDir = "docs"
     weight = 1
 
 [[menu.main]]
-    name = "About/Join"
+    name = "About / Join"
     url = "/about_join/"
     weight = 2
 
 [[menu.main]]
-    name = "News/Blog"
+    name = "Activities"
+    url = "/activities/"
+    weight = 2
+
+[[menu.main]]
+    name = "News / Blog"
     url = "https://qiita.com/organizations/BeginnersSec"
     weight = 3
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

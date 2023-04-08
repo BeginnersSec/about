@@ -12,27 +12,28 @@ Beginners Secは若者のハッカーが高め合い、世界へ羽ばたくた�
 
 スポンサー企業も充実してやりたいことに尽力できる環境です。
 
+<br>
+
 ## Activity
 
-活動内容の一部がこちらです。
+近日予定している活動内容の一部がこちらです。
 
-活動報告はこちらをご覧ください。
+詳しい活動報告につきましてはは [こちら](../activities/index.html) をご覧ください。
 
 - CTFなどを始めとしたセキュリティイベントへの参加
-
 - 独自のCTFを開催
-
 - 現役のエンジニアによるトークショー
-
 - 資格試験やCTFに向けた勉強会
-
 - オフライン勉強会
-
 - ブログを通した活動の発信
+
+<br>
 
 ## Join
 
-活動に参加を希望される方は、以下フォームよりお申し込みください。
+活動に参加を希望される方は、 [こちら](https://docs.google.com/forms/d/1nruvcXs7HdMZNYiw_90QiMCVyOdiO-8xFTUCFoNSgug/edit) よりお申し込みください。
+
+<br>
 
 ## Contact
 
@@ -41,3 +42,4 @@ Beginners Secは若者のハッカーが高め合い、世界へ羽ばたくた�
 - [Google Form](https://forms.gle/3QD5rNEfdqDMfWJHA)
 - [Twitter](https://twitter.com/beginners_sec)
 
+<br>
