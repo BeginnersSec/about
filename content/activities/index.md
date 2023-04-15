@@ -18,6 +18,8 @@ title = "Activities"
 |2023/2|&emsp;|Speed Dating CTF 2023|&emsp;|3rd|
 |2023/3|&emsp;|PicoCTF Japan Student部門|&emsp;|9th|
 |2023/4|&emsp;|DamCTF 2023|&emsp;|47th|
+|2023/4|&emsp;|HackPack CTF 2023|&emsp;|68th|
+|2023/4|&emsp;|JerseyCTF 2023|&emsp;||
 
 <br>
 
