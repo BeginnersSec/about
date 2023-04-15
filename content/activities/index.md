@@ -15,11 +15,11 @@ title = "Activities"
 
 |Date||Event||Prise|
 |---|---|---|---|---|
-|2023/2|&emsp;|Speed Dating CTF 2023|&emsp;|3rd|
-|2023/3|&emsp;|PicoCTF Japan Student部門|&emsp;|9th|
-|2023/4|&emsp;|DamCTF 2023|&emsp;|47th|
-|2023/4|&emsp;|HackPack CTF 2023|&emsp;|68th|
-|2023/4|&emsp;|JerseyCTF 2023|&emsp;||
+|2023/2| |Speed Dating CTF 2023|&emsp;|3rd|
+|2023/3| |PicoCTF Japan Student部門|&emsp;|9th|
+|2023/4| |DamCTF 2023|&emsp;|47th|
+|2023/4| |HackPack CTF 2023|&emsp;|68th|
+|2023/4| |JerseyCTF 2023|&emsp;||
 
 <br>
 
